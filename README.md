@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Marco lógico de proyectos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_21720022_MARCO_LOGICO_PROYECTOS/](https://ecored-sena.github.io/CF1_21720022_MARCO_LOGICO_PROYECTOS/)
 
 #
 
