@@ -24,96 +24,325 @@ export default {
         {
           id: 1,
           texto:
-            'Cuáles son los tipos de explotación en los sistemas productivos avícolas:',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
-          barajarRespuestas: false,
-          opciones: [
-            { id: 'a', texto: 'Explotación intensiva', esCorrecta: false },
-            { id: 'b', texto: 'Explotación semi intensiva', esCorrecta: false },
-            {
-              id: 'c',
-              texto: 'Explotación extensiva o traspatio',
-              esCorrecta: false,
-            },
-            { id: 'd', texto: 'Todas la anteriores', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente ....',
-        },
-        {
-          id: 2,
-          texto:
-            'Se lanzan dos proyectiles desde el suelo con la misma velocidad inicial, pero uno se lanza horizontalmente y el otro se lanza formando un ángulo de 45 grados con la horizontal. Considerando la resistencia del aire despreciable, ¿cuáles de las siguientes afirmaciones son verdaderas?',
-          imagen: require('@/assets/componentes/pregunta_2.png'),
+            '¿Cuál es el principal objetivo del Marco Lógico de Proyectos?',
+          imagen: require('@/assets/curso/img1.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Ambos proyectiles alcanzarán la misma altura máxima.',
+              texto:
+                'Describir detalladamente todos los recursos del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El proyectil lanzado horizontalmente recorrerá una distancia horizontal mayor que el proyectil lanzado a 45 grados',
+                'Identificar y analizar los problemas y objetivos del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Proveer financiamiento para el proyecto.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Seleccionar el equipo de trabajo para el proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 2,
+          texto:
+            '¿Qué elemento del Marco Lógico se utiliza para visualizar las causas y efectos de un problema?',
+          imagen: require('@/assets/curso/img2.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Matriz de Evaluación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Árbol de Problemas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Plan de Contingencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Estrategia de Mitigación.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 3,
+          texto:
+            'En el análisis de involucrados, ¿qué aspecto es esencial identificar?',
+          imagen: require('@/assets/curso/img3.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Los recursos financieros disponibles.',
+              esCorrecta: false,
+            },
+            { id: 'b', texto: 'La duración del proyecto.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Los intereses y problemas percibidos por los grupos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'La tecnología necesaria para el proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 4,
+          texto:
+            '¿Cuál es el propósito principal de un árbol de problemas en el Marco Lógico?',
+          imagen: require('@/assets/curso/img4.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Asignar tareas a los miembros del equipo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Evaluar el impacto financiero del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La velocidad horizontal del proyectil lanzado a 45 grados será mayor que la velocidad horizontal del proyectil lanzado horizontalmente.',
+                'Visualizar de manera estructurada las causas y efectos de un problema central.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Determinar el cronograma del proyecto.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 5,
+          texto:
+            '¿Qué se debe hacer después de identificar el problema central en el árbol de problemas?',
+          imagen: require('@/assets/curso/img1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Definir los objetivos del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Asignar los recursos necesarios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Construir el árbol de objetivos.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto:
-                'La velocidad total del proyectil lanzado a 45 grados en el punto más alto de su trayectoria será la misma que la velocidad horizontal del proyectil lanzado horizontalmente en cualquier punto de su trayectoria.',
+              texto: 'Realizar un análisis de riesgos.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Perfecto! Has seleccionado la respuesta correcta.',
-          mensaje_incorrecto: 'Esa no es la respuesta correcta. ¡Ánimo!',
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
         },
         {
-          id: 3,
-          texto: 'Texto de la tercera pregunta 3',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
-          opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: false },
-            { id: 'b', texto: 'Opción B', esCorrecta: false },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Muy bien! Esa es la respuesta correcta.',
-          mensaje_incorrecto: 'Respuesta incorrecta. ¡Inténtalo de nuevo!',
-        },
-        {
-          id: 4,
-          texto: 'Texto de la cuarta pregunta 4',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
+          id: 6,
+          texto:
+            '¿Cuál de los siguientes NO es un componente del Marco Lógico?',
+          imagen: require('@/assets/curso/img2.svg'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: true },
-            { id: 'b', texto: 'Opción B', esCorrecta: false },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Objetivos del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Indicadores de éxito.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Evaluación de desempeño del personal.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Actividades necesarias.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente.',
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
         },
         {
-          id: 5,
-          texto: 'Texto de la quinta pregunta 5',
-          imagen: require('@/assets/curso/banner-princiapal.svg'),
+          id: 7,
+          texto: '¿Qué es una matriz de marco lógico?',
+          imagen: require('@/assets/curso/img3.svg'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Opción A', esCorrecta: false },
-            { id: 'b', texto: 'Opción B', esCorrecta: true },
-            { id: 'c', texto: 'Opción C', esCorrecta: false },
-            { id: 'd', texto: 'Opción D', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Una herramienta para evaluar el desempeño financiero del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Una tabla que resume los objetivos, indicadores, medios de verificación y supuestos del proyecto.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Un documento que detalla los antecedentes del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Un diagrama que muestra el cronograma del proyecto.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Respuesta correcta! Felicidades.',
-          mensaje_incorrecto: 'Respuesta incorrecta. Intenta nuevamente.',
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 8,
+          texto:
+            '¿Qué debe incluirse en la columna de indicadores de una matriz de marco lógico?',
+          imagen: require('@/assets/curso/img4.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Los costos estimados del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Los medios para verificar el cumplimiento de los objetivos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Las actividades específicas para alcanzar los objetivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Las posibles barreras para el proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 9,
+          texto: '¿Cuál es la función de los supuestos en el Marco Lógico?',
+          imagen: require('@/assets/curso/img1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Detallar el presupuesto del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Identificar los posibles riesgos y factores externos que pueden influir en el éxito del proyecto.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Asignar responsabilidades dentro del equipo del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Describir las actividades diarias del proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
+        },
+        {
+          id: 10,
+          texto:
+            '¿Qué debe hacerse si se identifican riesgos significativos en los supuestos del Marco Lógico?',
+          imagen: require('@/assets/curso/img2.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Ignorar los riesgos y continuar con la planificación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Modificar los objetivos del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Desarrollar estrategias de mitigación y planes de contingencia.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Reasignar los recursos del proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: 'Felicitaciones, has acertado.',
+          mensaje_incorrecto:
+            'Te sugerimos revisar nuevamente el componente formativo.',
         },
       ],
       mensaje_final_aprobado:
