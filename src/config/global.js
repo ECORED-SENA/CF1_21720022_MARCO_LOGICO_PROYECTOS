@@ -94,32 +94,132 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Evaluación de la situación en el Eje Cafetero',
+      referencia:
+        'Tecnnova UEE. (2017). Formulación Proyectos Metodología Marco Lógico y SIGP [Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=YkOe47LpM8Q&ab_channel=TecnnovaUEE',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Árbol de problemas',
+      referencia:
+        'Legalidad Por México. (2019). 02 Árbol de Problemas [Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=2flWuQoFbd4&ab_channel=LegalidadPorM%C3%A9xico',
+    },
+    {
+      tema: 'Árbol de problemas',
+      referencia:
+        'COCID. (s,f.). Episodio 5 Árbol de Problema.  [Podcast]. YouTube.',
+      tipo: 'Podcast',
+      link: 'https://music.youtube.com/watch?v=_sFcZ6NhuQQ&feature=shared',
+    },
+    {
+      tema: 'Árbol de problemas',
+      referencia:
+        'Hernández-Hernández, N., & Garnica-González, J.  (2015). Árbol de Problemas del Análisis al Diseño y Desarrollo de Productos. Conciencia Tecnológica.  (50), 38-46.',
+      tipo: 'Artículo',
+      link: 'https://www.redalyc.org/pdf/944/94443423006.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Árbol de problemas',
+      significado:
+        'herramienta que visualiza las causas y efectos de un problema central.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Causas directas',
+      significado: 'factores inmediatos que generan el problema central.',
+    },
+    {
+      termino: 'Causas indirectas',
+      significado:
+        'factores subyacentes que contribuyen a las causas directas.',
+    },
+    {
+      termino: 'Efectos directos',
+      significado: 'consecuencias inmediatas del problema central.',
+    },
+    {
+      termino: 'Efectos indirectos',
+      significado: 'impactos secundarios y a largo plazo del problema central.',
+    },
+    {
+      termino: 'Indicadores de eficacia',
+      significado:
+        'medidas que evalúan el logro de los objetivos del proyecto.',
+    },
+    {
+      termino: 'Indicadores de eficiencia',
+      significado:
+        'medidas que evalúan los recursos utilizados para alcanzar los objetivos.',
+    },
+    {
+      termino: 'Marco lógico',
+      significado:
+        'herramienta de planificación y gestión de proyectos que organiza objetivos, actividades, indicadores y supuestos.',
+    },
+    {
+      termino: 'Medios de verificación',
+      significado:
+        'fuentes y métodos utilizados para comprobar el cumplimiento de los indicadores.',
+    },
+    {
+      termino: 'Objetivo general',
+      significado: 'meta amplia que el proyecto busca alcanzar.',
+    },
+    {
+      termino: 'Objetivos específicos',
+      significado:
+        'metas detalladas y concretas que contribuyen al objetivo general.',
+    },
+    {
+      termino: 'Problema central',
+      significado: 'problema principal que el proyecto busca solucionar.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Balanzátegui, R., Sánchez, P., Dávalos, E., & Negrete, O. (2019). Evaluación de proyectos socio productivos mediante el sistema del Marco Lógico. Espacios, 40(34). ',
+      link: 'https://www.revistaespacios.com/a19v40n34/a19v40n34p05.pdf',
+    },
+    {
+      referencia:
+        'Corporación Autónoma Regional del Cauca. (2007). La metodología del marco lógico del proyecto. Popayán. CRC. Cauca biosostenible. ',
       link: '',
+    },
+    {
+      referencia:
+        'Duque-Cuero, J. H., & Tinajero-Castelo, P. E. (2019). Herramientas Administrativas Básicas para el Negocio: Metodología de Marco Lógico. Memorias del Seminario Herramientas Administrativas. ',
+      link:
+        'https://repositorio.utn.edu.ec/bitstream/123456789/15299/1/Libro%20Memorias_Seminario%20Herramientas%20Administrativas.pdf#page=21',
+    },
+    {
+      referencia:
+        'Ingenio Empresa. (s.f.). Marco lógico: Definición, elaboración y ejemplo detallado. ',
+      link: 'https://www.ingenioempresa.com/metodologia-marco-logico/',
+    },
+    {
+      referencia:
+        'Ministerio de Economía y Finanzas de Perú. (s.f.). [PDF] Metodología del Marco Lógico. ',
+      link:
+        'https://www.mef.gob.pe/contenidos/inv_publica/docs/capacidades/cursos_2014/set/atenci_medic_17_09/1_Salud_MML.pdf',
+    },
+    {
+      referencia:
+        'OBS Business School. (2014, 4 de octubre). El marco lógico en la gestión de un proyecto, una herramienta esencial. ',
+      link:
+        'https://www.obsbusiness.school/blog/el-marco-logico-en-la-gestion-de-un-proyecto-una-herramienta-esencial',
+    },
+    {
+      referencia:
+        'Torrado, L. C., & Casallas, N. E. C. (2022). Revisión del marco lógico: conceptualización, metodología, variaciones y aplicabilidad en la gerencia de proyectos y programas. Inquietud Empresarial. ',
+      link:
+        'https://revistas.uptc.edu.co/index.php/inquietud_empresarial/article/download/13408/11751s',
     },
   ],
   creditos: [
@@ -142,8 +242,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Oscar Yesid Mendoza Jerez',
+          cargo: 'Experto Temático',
+          centro:
+            'Centro de Gestión Agroempresarial del Oriente - Regional Santander',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -152,23 +258,23 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Daniela Muñoz Bedoya',
           cargo: 'Animador y Producción audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -176,16 +282,16 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
