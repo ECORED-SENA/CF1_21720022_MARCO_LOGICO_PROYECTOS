@@ -38,12 +38,12 @@ export default {
               id: 'b',
               texto:
                 'Identificar y analizar los problemas y objetivos del proyecto.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'c',
               texto: 'Proveer financiamiento para el proyecto.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'd',

@@ -219,7 +219,7 @@ export default {
       referencia:
         'Torrado, L. C., & Casallas, N. E. C. (2022). Revisión del marco lógico: conceptualización, metodología, variaciones y aplicabilidad en la gerencia de proyectos y programas. Inquietud Empresarial. ',
       link:
-        'https://revistas.uptc.edu.co/index.php/inquietud_empresarial/article/download/13408/11751s',
+        'https://revistas.uptc.edu.co/index.php/inquietud_empresarial/article/download/13408/11751',
     },
   ],
   creditos: [
@@ -228,8 +228,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Dirección general',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
@@ -243,13 +243,13 @@ export default {
       autores: [
         {
           nombre: 'Oscar Yesid Mendoza Jerez',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro:
             'Centro de Gestión Agroempresarial del Oriente - Regional Santander',
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -259,17 +259,17 @@ export default {
       autores: [
         {
           nombre: 'Juan Daniel Polanco Muñoz',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Jhon Jairo Urueta Alvarez',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y producción audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
@@ -287,11 +287,11 @@ export default {
         //  cargo: 'Validador de Recursos Educativos Digitales',
         //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
         //},
-        //{
-        //  nombre: 'Jaime Hernán Tejada Llano',
-        //  cargo: 'Validador de Recursos Educativos Digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

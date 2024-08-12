@@ -17,7 +17,7 @@
                   figure
                     img(src='@/assets/curso/tema2/img1.svg', style='width: 80px', alt='').m-auto
                 .col
-                  p.mb-0 "La participación de los involucrados en el diseño, formulación y gestión del proyecto se comienza a evidenciar durante el análisis de problemas; más específicamente durante la construcción del árbol de problemas." (CRC, 2007, p. 16).
+                  p.mb-0 "La participación de los involucrados en el diseño, formulación y gestión del proyecto se comienza a evidenciar durante el análisis de problemas; más específicamente durante la construcción del árbol de problemas". (CRC, 2007, p. 16).
         p.mb-0 El árbol de problemas es una herramienta fundamental en la metodología de marco lógico utilizada para identificar y analizar los problemas en el contexto de un proyecto. Su propósito es visualizar de manera estructurada las causas y efectos de un problema central, facilitando así la comprensión y el abordaje de la situación problemática.
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure

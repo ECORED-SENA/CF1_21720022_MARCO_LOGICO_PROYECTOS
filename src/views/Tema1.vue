@@ -8,7 +8,7 @@
       h1 Evaluación de la situación en el Eje Cafetero
     .row.align-items-center.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-        p El eje cafetero es una región de gran belleza natural ubicada en el norte caldense, conformado por los municipios de #[b Aguadas, Pácora y Salamina]. Esta área se caracteriza por la confluencia de diversas actividades económicas sustentables que promueven el desarrollo de la región y de sus habitantes. No obstante, enfrenta serias problemáticas ambientales y preocupaciones por parte de la comunidad.
+        p El eje cafetero es una región de gran belleza natural ubicada en el norte caldense, conformada por los municipios de #[b Aguadas, Pácora y Salamina]. Esta área se caracteriza por la confluencia de diversas actividades económicas sustentables que promueven el desarrollo de la región y de sus habitantes. No obstante, enfrenta serias problemáticas ambientales y preocupaciones por parte de la comunidad.
         .row
           .col-12
             .p-4.bg-c3
@@ -88,7 +88,7 @@
                     h3.mb-0 Grupos
           .row.align-items-center.mb-5
             .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
-              p.mb-0 La identificación de la población involucrada en el Eje Cafetero es esencial para comprender las dinámicas y relaciones que afectan el desarrollo de proyectos en esta región. Este análisis incluye a diversos grupos que, de alguna manera, influyen o son influenciados por las iniciativas propuestas. Al conocer sus intereses, problemas percibidos, y los recursos y mandatos que poseen, se puede diseñar e implementar estrategias más efectivas y alineadas con las realidades locales. La población involucrada en el Eje Cafetero es:
+              p.mb-0 La identificación de la población involucrada en el Eje Cafetero es esencial para comprender las dinámicas y relaciones que afectan el desarrollo de proyectos en esta región. Este análisis incluye a diversos grupos que, de alguna manera, influyen o son influenciados por las iniciativas propuestas. Al conocer sus intereses, problemas percibidos, y los recursos y mandatos que poseen, se pueden diseñar e implementar estrategias más efectivas y alineadas con las realidades locales. La población involucrada en el Eje Cafetero es:
             .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img4.svg', style='width: 280px', alt='').m-auto
@@ -175,7 +175,7 @@
                 li.d-flex
                   i.fas.fa-check-circle
                   |
-                  p.mb-0 Grupos o asociaciones formados por la comunidad.
+                  p.mb-0 Grupos o asociaciones formadas por la comunidad.
                 li.d-flex
                   i.fas.fa-check-circle
                   |
@@ -471,7 +471,7 @@
                         figure
                           img(src='@/assets/curso/tema1/img23.svg', style='width: 50px', alt='').m-auto
                       .col
-                        p Después de hecho el análisis de involucrados, usted podrá definir:
+                        p Después de haber hecho el análisis de involucrados, usted podrá definir:
                         ul.lista-ul.mb-0
                           li.d-flex
                             i.fas.fa-check-circle
@@ -501,7 +501,7 @@
             thead
               tr
                 th Parámetros
-                th Variable de Análisis
+                th Variable de análisis
             tbody(style="background-color: #FFFFFF")
               tr
                 td Características del grupo

@@ -24,7 +24,7 @@
                         figure
                           img(src='@/assets/curso/intro/img1.svg', style='width: 110px', alt='')
                       .col
-                        p.mb-0 Este componente está diseñado para guiar la aplicación del Marco Lógico en el contexto del Eje Cafetero, una región de gran importancia económica y ambiental en Colombia. En esta área, los proyectos d eben abordar tanto las oportunidades de desarrollo sostenible como los desafios ambientales y sociales que enfrenta la comunidad local.
+                        p.mb-0 Este componente está diseñado para guiar la aplicación del Marco Lógico en el contexto del Eje Cafetero, una región de gran importancia económica y ambiental en Colombia. En esta área, los proyectos deben abordar tanto las oportunidades de desarrollo sostenible como los desafíos ambientales y sociales que enfrenta la comunidad local.
               p.mb-0 El proceso comienza con la identificación y análisis de los involucrados, quienes son esenciales para el éxito del proyecto. A través de un instrumento de captura de información, se detallan los intereses, problemas percibidos, recursos y mandatos de cada grupo relevante. Este análisis inicial proporciona una comprensión integral de las dinámicas y relaciones que influencian el desarrollo regional.
           .row
             .col-12
