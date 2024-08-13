@@ -233,7 +233,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
