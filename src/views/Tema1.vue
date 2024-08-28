@@ -312,8 +312,10 @@
                     img(src='@/assets/curso/tema1/img3.svg', style="width:60px" alt='').m-auto
                 .col.fig-p1(style="z-index: 1")
                   .px-5.py-2.bg-c5
-                    h3.mb-0 Recursos y Mandatos
-          p.mb-5(data-aos="fade-right") Recursos: Acciones que el grupo puede poner a disposición para contribuir a, o detener el proyecto. Mandatos: Acciones legales o estatutarias que el grupo puede poner a disposición para contribuir a, o detener el proyecto. Tenga en cuenta que los recursos o mandatos pueden influir positiva o negativamente al proyecto.
+                    h3.mb-0 Recursos y mandatos
+
+          p.mb-5(data-aos="fade-right") Recursos: acciones que el grupo puede poner a disposición para contribuir a, o detener el proyecto. Mandatos: acciones legales o estatutarias que el grupo puede poner a disposición para contribuir a, o detener el proyecto. Tenga en cuenta que los recursos o mandatos pueden influir positiva o negativamente al proyecto.
+
           .row
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos="fade-right")
