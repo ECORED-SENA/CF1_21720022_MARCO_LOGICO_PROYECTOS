@@ -17,7 +17,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img1.svg', style='width: 130px', alt='').m-auto
                 .col
-                  p.mb-0 Durante esta investigación, se observará e indagará con los grupos y organizaciones locales para identificar los inconvenientes que dificultan el desarrollo de sus actividades económicas. El objetivo es establecer un diagnóstico detallado de la situación. Este es el primer paso crucial para el análisis de involucrados en el marco lógico del proyecto.
+                  p.mb-0 Durante esta investigación, se observará e indagará con los grupos y organizaciones locales para identificar los inconvenientes que dificultan el desarrollo de sus actividades económicas. El objetivo es establecer un diagnóstico detallado de la situación. Este es el primer paso para el análisis de involucrados en el marco lógico del proyecto.
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img1.png', style='width: 390px', alt='').m-auto

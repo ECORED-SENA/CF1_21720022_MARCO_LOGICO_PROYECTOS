@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Marco lógico de proyectos',
     descripcionCurso:
-      'El Marco lógico de proyectos es una metodología estructurada para planificar, gestionar y evaluar proyectos. Este componente guía la identificación de problemas, el establecimiento de objetivos claros y la planificación de actividades. Incluye el análisis de involucrados, la construcción de árboles de problemas y objetivos, y la creación de una matriz de marco lógico, promoviendo un desarrollo sostenible.',
+      'El marco lógico una metodología estructurada utilizada para planificar, gestionar y evaluar proyectos de manera eficiente. Esta herramienta facilita la identificación precisa de problemas, la definición de objetivos claros y la planificación estratégica de actividades. Además, abarca el análisis de los actores involucrados, la elaboración de árboles de problemas y objetivos, y la construcción de una matriz de marco lógico, promoviendo así un enfoque integral orientado al desarrollo sostenible.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
