@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Árbol de problemas
-    p.mb-4(data-aos="fade-right") Habiendo realizado ya el análisis de involucrados, es momento de continuar con el siguiente paso en la etapa de identificación y análisis. Este es: El árbol de problemas.
+    p.mb-4(data-aos="fade-right") Habiendo realizado ya el análisis de involucrados, es momento de continuar con el siguiente paso en la etapa de identificación y análisis. Este es: el árbol de problemas.
     .row.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         .row.mb-3
@@ -227,9 +227,9 @@
                 .col-12
                   .p-4.bg-c9(data-aos="fade-down")
                     figure.d-none.d-lg-block
-                      img(src='@/assets/curso/tema2/img12.svg', style='width: 900px', alt='Figura que representa el tronco del árbol,  siendo el problema central: Acelerado deterioro ambiental.').m-auto
+                      img(src='@/assets/curso/tema2/img12.svg', style='width: 900px', alt='El diagrama ilustra las ramas del árbol, categorizadas en ramas principales y secundarias, donde las principales representan la disminución de la calidad de vida y la pérdida de la función de los ecosistemas. Estas se derivan de diversas ramas secundarias, que incluyen factores como bajos niveles de ingresos, pérdida de biodiversidad, incendios en épocas de sequía, alta contaminación por productos químicos y residuos sólidos y líquidos, inundaciones en épocas de lluvia, disminución del abastecimiento hídrico, incremento en el desplazamiento de la población, incremento de los cultivos para uso ilícito, inadecuado uso de los recursos públicos y disminución en la fertilidad de los suelos.').m-auto
                     figure.d-block.d-lg-none
-                      img(src='@/assets/curso/tema2/img12m.svg', style='width: 390px', alt='Figura que representa el tronco del árbol,  siendo el problema central: Acelerado deterioro ambiental.').m-auto
+                      img(src='@/assets/curso/tema2/img12m.svg', style='width: 390px', alt='El diagrama ilustra las ramas del árbol, categorizadas en ramas principales y secundarias, donde las principales representan la disminución de la calidad de vida y la pérdida de la función de los ecosistemas. Estas se derivan de diversas ramas secundarias, que incluyen factores como bajos niveles de ingresos, pérdida de biodiversidad, incendios en épocas de sequía, alta contaminación por productos químicos y residuos sólidos y líquidos, inundaciones en épocas de lluvia, disminución del abastecimiento hídrico, incremento en el desplazamiento de la población, incremento de los cultivos para uso ilícito, inadecuado uso de los recursos públicos y disminución en la fertilidad de los suelos.').m-auto
     .row.mb-4(data-aos="fade-down")
       .col-auto
         .row.align-items-center
@@ -254,9 +254,9 @@
             .col-12
               .p-4(data-aos="fade-down")
                 figure.d-none.d-lg-block
-                  img(src='@/assets/curso/tema2/img13.svg', style='width: 1000px', alt='La imagen presenta un diagrama del árbol de problemas, con las raíces indicando las causas principales y secundarias, el tronco representando el problema central del deterioro ambiental, y las ramas mostrando los efectos negativos sobre la calidad de vida y los ecosistemas.').m-auto
+                  img(src='@/assets/curso/tema2/img13.svg', style='width: 1000px', alt='El árbol de problemas presenta las causas y consecuencias del acelerado deterioro ambiental, estructurado en raíces, tronco y ramas. En la base, las raíces principales identifican factores como sistemas de producción no sostenibles, suelos deteriorados y comunidades desorganizadas, mientras que las raíces secundarias profundizan en aspectos como deficiente gestión de residuos, prácticas agrícolas inapropiadas, falta de educación ambiental y políticas ineficaces. El tronco representa el problema central: el acelerado deterioro ambiental. Por último, las ramas principales muestran efectos críticos, como la disminución de la calidad de vida y la pérdida de la función de los ecosistemas, alimentadas por ramas secundarias que incluyen disminución del abastecimiento hídrico, pérdida de biodiversidad, incendios, contaminación y degradación de los suelos. ').m-auto
                 figure.d-block.d-lg-none
-                  img(src='@/assets/curso/tema2/img13m.svg', style='width: 430px', alt='La imagen presenta un diagrama del árbol de problemas, con las raíces indicando las causas principales y secundarias, el tronco representando el problema central del deterioro ambiental, y las ramas mostrando los efectos negativos sobre la calidad de vida y los ecosistemas.').m-auto
+                  img(src='@/assets/curso/tema2/img13m.svg', style='width: 430px', alt='El árbol de problemas presenta las causas y consecuencias del acelerado deterioro ambiental, estructurado en raíces, tronco y ramas. En la base, las raíces principales identifican factores como sistemas de producción no sostenibles, suelos deteriorados y comunidades desorganizadas, mientras que las raíces secundarias profundizan en aspectos como deficiente gestión de residuos, prácticas agrícolas inapropiadas, falta de educación ambiental y políticas ineficaces. El tronco representa el problema central: el acelerado deterioro ambiental. Por último, las ramas principales muestran efectos críticos, como la disminución de la calidad de vida y la pérdida de la función de los ecosistemas, alimentadas por ramas secundarias que incluyen disminución del abastecimiento hídrico, pérdida de biodiversidad, incendios, contaminación y degradación de los suelos. ').m-auto
     .row.mb-4(data-aos="fade-down")
       .col-auto
         .row.align-items-center

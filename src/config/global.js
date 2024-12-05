@@ -116,13 +116,6 @@ export default {
       tipo: 'Podcast',
       link: 'https://music.youtube.com/watch?v=_sFcZ6NhuQQ&feature=shared',
     },
-    {
-      tema: 'Árbol de problemas',
-      referencia:
-        'Hernández-Hernández, N., & Garnica-González, J.  (2015). Árbol de Problemas del Análisis al Diseño y Desarrollo de Productos. Conciencia Tecnológica.  (50), 38-46.',
-      tipo: 'Artículo',
-      link: 'https://www.redalyc.org/pdf/944/94443423006.pdf',
-    },
   ],
   glosario: [
     {
@@ -194,7 +187,7 @@ export default {
     },
     {
       referencia:
-        'Duque-Cuero, J. H., & Tinajero-Castelo, P. E. (2019). Herramientas Administrativas Básicas para el Negocio: Metodología de Marco Lógico. Memorias del Seminario Herramientas Administrativas. ',
+        'Duque-Cuero, J. H., & Tinajero-Castelo, P. E. (2019). Herramientas Administrativas Básicas para el Negocio: Metodología de Marco Lógico. Memorias del Seminario Herramientas administrativas para la toma de decisiones.',
       link:
         'https://repositorio.utn.edu.ec/bitstream/123456789/15299/1/Libro%20Memorias_Seminario%20Herramientas%20Administrativas.pdf#page=21',
     },
